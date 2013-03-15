@@ -1,8 +1,8 @@
 #include <SPI.h>
 #include <WiFi.h>
 
-char ssid[] = "Georgemanor";     //  your network SSID (name) 
-char pass[] = "1284MJ181916F";    // your network password
+char ssid[] = "yourSSID";     //  your network SSID (name) 
+char pass[] = "yourPass";    // your network password
 
 int status = WL_IDLE_STATUS;
 
